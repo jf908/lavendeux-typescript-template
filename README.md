@@ -20,6 +20,8 @@ A TypeScript + Vite template for [Lavendeux](https://github.com/rscarson/Lavende
 
 How to create a new release
 
+> You must enable "Read and write permissions" in the Actions setting for the repo.
+
 1. Create a git tag starting with v `git tag v1.0.1`
 2. Push the tag `git push origin --tags`
 3. A GitHub release will be created automatically.
