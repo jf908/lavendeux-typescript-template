@@ -2,11 +2,11 @@
 
 A TypeScript + Vite template for [Lavendeux](https://github.com/rscarson/Lavendeux) extensions.
 
-- ✅ Include packages from npm
-- ✅ Typing with TypeScript
-- ✅ Bundling with Vite
-- ✅ Testing with Vitest
-- ✅ GitHub Actions
+- [x] Include packages from npm
+- [x] Typing with TypeScript
+- [x] Bundling with Vite
+- [x] Testing with Vitest
+- [x] GitHub Actions
 
 ## Usage
 
